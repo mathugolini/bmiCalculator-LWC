@@ -6,4 +6,4 @@
 
 :arrow_down: Segue link abaixo para visualização pública do projeto em org Salesforce
 
-https://hugolini-portifolio-dev-ed.develop.my.site.com/bmi-calculator
+https://hugolini-portifolio-dev-ed.develop.my.site.com/calculator-bmi
