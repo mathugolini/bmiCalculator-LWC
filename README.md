@@ -1,5 +1,7 @@
 :heavy_check_mark: BMI Calculator 
 
+Projeto FrontEnd Calculadora IMC - Recebe atributos de peso e altura e retorna resultado de saúde do usuário
+
 :wrench: Construção do app de IMC em inglês 
 
 :art: Componentes HTML, CSS e JS 
